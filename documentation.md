@@ -13,7 +13,7 @@ Rather than recreating Old Roblox, the project preserves evidence of how the pla
 
 # Conceptual Framing
 
-This project draws from ideas in media archaeology, media genealogy, platform studies, and infrastructure studies.
+
 
 One of the central questions guiding this archive is:
 
