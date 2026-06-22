@@ -30,11 +30,7 @@ The archive exists to preserve those shifts, not as nostalgia alone, but as a wa
 
 
 
-The project was particularly influenced by Benjamin Bratton's concept of layered infrastructure in The Stack. Bratton argues that digital systems are made up of multiple layers, ranging from physical infrastructure to user interfaces. This framework helped me think about Roblox not as a single platform but as a collection of interconnected systems. 
-
-Similarly, Frank Pasquale's work on black-box systems encouraged me to examine how platform governance becomes embedded in systems that users can see but not fully understand. Features such as currency systems, moderation structures, membership programs, and communication controls reveal how governance operates through infrastructure.
-
-Marshall McLuhan's argument that "the medium is the message" also influenced the project. Rather than focusing on individual games or user content, I became interested in how platform structures themselves shape behavior and community culture. 
+The project was particularly influenced by Benjamin Bratton's concept of layered infrastructure in The Stack. Bratton's idea of layered infrastructure influenced how I organized metadata because it encouraged me to think about Roblox as multiple interconnected systems rather than a single platform. Instead of classifying artifacts only by feature names, I used subject metadata to connect them to broader layers such as economy, communication, identity, governance, and interface design. For example, a Tix artifact is not only tagged as 'Tix' but also as 'Economy' and 'Currency,' while forum artifacts are connected to communication and governance. This allows users to see relationships between artifacts and understand Roblox as a collection of interacting systems.
 
 Throughout the project, Roblox became less of a game and more of a historical platform whose infrastructure could be studied and documented. 
 
