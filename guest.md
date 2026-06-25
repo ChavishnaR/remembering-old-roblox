@@ -9,7 +9,7 @@ This section documents Roblox Guest Mode and its role in early platform access, 
 
 ---
 
-{% assign items = site.data.old-roblox | where_exp: "item", "item.subject contains 'guest accounts'" %}
+{% assign items = site.data.old-roblox | where_exp: "item", "item.subject contains 'Guest'" %}
 
 {% for item in items %}
 
