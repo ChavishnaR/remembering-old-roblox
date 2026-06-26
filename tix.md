@@ -16,7 +16,7 @@ Tickets (Tix) were Roblox's former free virtual currency. Introduced in 2007 and
 
 ### {{ item.title }}
 
-<img src="{{ '/objects/' | append: item.filename | relative_url }}" alt="{{ item.title }}">
+<img src="{{ '/objects/' | append: item.filename | relative_url }}" alt="{{ item.title }}" style="max-width:400px; width:100%; height:auto;">
 
 **Date:** {{ item.date }}
 
