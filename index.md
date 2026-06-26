@@ -100,7 +100,7 @@ If you are new to the archive:
 
 ## About the Collection
 
-This archive contains 46 artifacts gathered from publicly available historical materials, including archived webpages, screenshots, wiki documentation, community discussions, blog posts, and platform announcements.
+This archive contains 45 artifacts gathered from publicly available historical materials, including archived webpages, screenshots, wiki documentation, community discussions, blog posts, and platform announcements.
 
 Each artifact includes metadata such as title, description, subject terms, source, and date. These metadata choices allow artifacts to be connected across broader platform systems.
 
