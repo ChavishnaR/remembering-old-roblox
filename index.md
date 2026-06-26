@@ -34,7 +34,7 @@ This project exists to:
 
 Instead of being organized chronologically, this archive is structured around **five core systems**:
 
-Each system represents a layer of the Roblox platform.
+Each system represents a distinct layer of the Roblox platform.
 
 ---
 
