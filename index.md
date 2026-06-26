@@ -67,8 +67,8 @@ Website design, navigation systems, and UI evolution over time.
 
 ###  Builders Club
 Membership tiers, monetization systems, and digital status structures.
+[Enter Builders Club →]({"/builders-club/"| relative_url}})
 
-[Enter Builders Club →]({{ "/builders-club/" | relative_url }})
 ---
 
 ## Suggested entry path
