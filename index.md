@@ -97,4 +97,3 @@ Each artifact includes metadata such as title, description, subject terms, sourc
 
 Use the menu above to browse categories and explore the archive.
 
-[TEST LINK](/tix/)
