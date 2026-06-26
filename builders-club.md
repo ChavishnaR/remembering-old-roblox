@@ -18,7 +18,7 @@ These artifacts illustrate how membership functioned as both a monetization syst
 
 ### {{ item.title }}
 
-<img src="{{ '/objects/' | append: item.filename | relative_url }}" alt="{{ item.title }}">
+<img src="{{ '/objects/' | append: item.filename | relative_url }}" alt="{{ item.title }}" style="max-width:400px; width:100%; height:auto;"> 
 
 **Date:** {{ item.date }}  
 **Description:** {{ item.description }}  
