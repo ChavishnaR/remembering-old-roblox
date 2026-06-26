@@ -41,7 +41,7 @@ Each system represents a layer of the Roblox platform.
 ###  Tix (Tickets Economy)
 Roblox’s former free currency system and early virtual economy.
 
-Enter Tix →]({{ "/tix/" | relative_url }})
+[Enter Tix →]({{ "/tix/" | relative_url }})
 
 ---
 
