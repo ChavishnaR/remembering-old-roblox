@@ -48,7 +48,8 @@ Roblox’s former free currency system and early virtual economy.
 ###  Guest Accounts
 Guest Mode, onboarding, and temporary identity systems.
 
-[Enter Guest Accounts →]({{ "/guest/" | relative_url }})
+[Enter Guest Accounts →] ({{ "/guest/" | relative_url }})
+
 ---
 
 ###  Forums
