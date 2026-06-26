@@ -4,108 +4,95 @@ title: Remembering Old Roblox
 ---
 
 # Remembering Old Roblox  
-### A Digital Archive of Discontinued Platform Features
+### A Digital Archive of Discontinued Roblox Features
 
 ---
 
-## What is this project?
+## What is this archive?
 
-This project is a digital archive of discontinued, transformed, or removed features from Roblox.
+Remembering Old Roblox is a digital archive that documents discontinued, transformed, or removed features from the Roblox platform.
 
-Rather than treating Roblox only as a game, this archive approaches it as a **platform made up of interconnected systems**. These systems shaped how users interacted with the platform — how they communicated, built identities, accessed content, participated in economies, and navigated the interface.
+Rather than treating Roblox only as a game, this project approaches it as a **platform made up of interconnected systems**. These systems shaped how users experienced the platform through currency, identity, communication, interface design, and membership structures.
 
-As Roblox evolved, many of these systems were redesigned or removed entirely. This project preserves traces of those earlier versions through screenshots, archived webpages, community discussions, wiki documentation, and official announcements.
-
----
-
-## Purpose of the Archive
-
-The purpose of this archive is not to recreate “old Roblox,” but to:
-
-- document how platform systems change over time  
-- preserve fragments of discontinued digital infrastructures  
-- show how design decisions affect user experience and participation  
-- highlight Roblox as a shifting technological and cultural system  
-
-Many online platforms are often treated as stable and continuous. In reality, they constantly evolve. Features disappear, interfaces are redesigned, and communities reorganize around new systems.
-
-This archive captures those transitions.
+As Roblox evolved, many of these systems were redesigned or removed entirely. This archive preserves fragments of those earlier versions through screenshots, archived webpages, wiki documentation, community discussions, and official announcements.
 
 ---
 
-## How to Read This Archive
+## Purpose of this archive
 
-The archive is organized around **five major systems**, not chronology.
+This project exists to:
 
-Each system represents a layer of platform infrastructure:
-
-- economic systems  
-- identity systems  
-- communication systems  
-- interface systems  
-- membership systems  
-
-Together, these systems show how Roblox functioned as a platform rather than just a game.
+- document how Roblox systems change over time  
+- preserve discontinued platform features  
+- show how design decisions affect user experience  
+- highlight Roblox as an evolving digital infrastructure  
+- explore what is lost when platforms update or remove systems  
 
 ---
 
-## Explore the Archive
+## How to read this archive
 
-### 💰 Economy
-Tickets (Tix), currency systems, and Roblox’s virtual marketplace.
+Instead of being organized chronologically, this archive is structured around **five core systems**:
 
-👉 [Enter Economy →](/tix/)
-
----
-
-### 👤 Access & Identity
-Guest accounts, avatars, onboarding systems, and user entry structures.
-
-👉 [Enter Identity →](/guest/)
+Each system represents a layer of the Roblox platform.
 
 ---
 
-### 💬 Communication
-Forums and community discussion spaces that shaped user interaction.
+### 💰 Tix (Tickets Economy)
+Roblox’s former free currency system and early virtual economy.
 
-👉 [Enter Communication →](/forums/)
+👉 [Enter Tix →](/tix/)
+
+---
+
+### 👤 Guest Accounts
+Guest Mode, onboarding, and temporary identity systems.
+
+👉 [Enter Guest Accounts →](/guest/)
+
+---
+
+### 💬 Forums
+Community discussion spaces and communication infrastructure.
+
+👉 [Enter Forums →](/forums/)
 
 ---
 
 ### 🧭 Interface History
-Website design, navigation systems, login pages, and UI evolution.
+Website design, navigation systems, and UI evolution over time.
 
-👉 [Enter Interfaces →](/interface/)
-
----
-
-### 🪪 Membership Systems
-Builders Club and tiered membership systems as forms of status and monetization.
-
-👉 [Enter Membership →](/builders-club/)
+👉 [Enter Interface History →](/interface/)
 
 ---
 
-## Suggested Entry Path
+### 🪪 Builders Club
+Membership tiers, monetization systems, and digital status structures.
+
+👉 [Enter Builders Club →](/builders-club/)
+
+---
+
+## Suggested entry path
 
 If you are new to the archive:
 
-1. Start with the **Economy (Tix system)**  
-2. Move to **Access & Identity (Guest accounts)**  
-3. Explore **Communication (Forums)**  
-4. Compare **Interface History** across time  
-5. End with **Membership Systems (Builders Club)**  
+1. Start with **Tix**
+2. Move to **Guest Accounts**
+3. Explore **Forums**
+4. Compare **Interface History**
+5. End with **Builders Club**
 
 ---
 
-## About the Collection
+## About the collection
 
 This archive contains 45 artifacts gathered from publicly available historical materials, including archived webpages, screenshots, wiki documentation, community discussions, blog posts, and platform announcements.
 
-Each artifact includes metadata such as title, description, subject terms, source, and date. These metadata choices allow artifacts to be connected across broader platform systems.
+Each artifact includes metadata such as title, description, subject terms, source, and date. These metadata choices allow artifacts to be understood both individually and as part of broader platform systems.
 
 ---
 
 ## Navigation
 
-Use the navigation menu to browse categories, explore artifacts, and access documentation.
+Use the menu above to browse categories and explore the archive.
