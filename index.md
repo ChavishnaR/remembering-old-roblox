@@ -45,32 +45,30 @@ Roblox’s former free currency system and early virtual economy.
 
 ---
 
-### 👤 Guest Accounts
+###  Guest Accounts
 Guest Mode, onboarding, and temporary identity systems.
 
-👉 [Enter Guest Accounts →](/guest/)
-
+[Enter Guest Accounts →]({{ "/guest/" | relative_url }})
 ---
 
-### 💬 Forums
+###  Forums
 Community discussion spaces and communication infrastructure.
 
-👉 [Enter Forums →](/forums/)
+[Enter Forums →]({{ "/forums/" | relative_url }})
 
 ---
 
-### 🧭 Interface History
+###  Interface History
 Website design, navigation systems, and UI evolution over time.
 
-👉 [Enter Interface History →](/interface/)
+[Enter Interface History →]({{ "/interface/" | relative_url }})
 
 ---
 
-### 🪪 Builders Club
+###  Builders Club
 Membership tiers, monetization systems, and digital status structures.
 
-👉 [Enter Builders Club →](/builders-club/)
-
+[Enter Builders Club →]({{ "/builders-club/" | relative_url }})
 ---
 
 ## Suggested entry path
