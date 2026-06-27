@@ -6,6 +6,8 @@ permalink: /citations.html
 
 ## Citations and Sources
 
+Bratton, Benjamin H. The Stack: On Software and Sovereignty. MIT Press, 2016, Neocities, https://kyl.neocities.org/books/[SOC%20BRA]%20the%20stack%20-%20on%20software%20and%20sovereignty.pdf, Accessed 25 May 2026. 
+
 BlogDog123. “Community.” Roblox Wiki, https://roblox.fandom.com/wiki/Community. Accessed 14 June 2026.
 
 BoundlessJ. “Builders Club.” Roblox Wiki, https://roblox.fandom.com/wiki/Builders_Club. Accessed 20 June 2026.
