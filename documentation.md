@@ -146,13 +146,19 @@ Metadata forms the organizational structure of the archive and allows artifacts 
 
 The archive uses CollectionBuilder's CSV metadata framework. Each artifact includes the following fields:
 
-Title – identifies the artifact.
-Date – records when the documented feature, webpage, or system existed or was published.
-Description – summarizes the artifact's historical significance and explains what it documents.
-Subject – categorizes the artifact within broader platform systems.
-Source – identifies the original webpage or archive from which the artifact was obtained.
-Format – identifies the media type (such as webpage, screenshot, forum post, or image).
-Rights – records the rights statement associated with the artifact.
+Title = identifies the artifact.
+
+Date = records when the documented feature, webpage, or system existed or was published.
+
+Description = summarizes the artifact's historical significance and explains what it documents.
+
+Subject = categorizes the artifact within broader platform systems.
+
+Source = identifies the original webpage or archive from which the artifact was obtained.
+
+Format = identifies the media type (such as webpage, screenshot, forum post, or image).
+
+Rights = records the rights statement associated with the artifact.
 
 The Subject field became the most significant metadata element in this project. Rather than simply assigning keywords, subjects were designed to connect individual artifacts to larger infrastructural systems within Roblox. Each artifact is assigned one primary subject representing its main category, alongside several broader subjects that connect it to related themes across the archive.
 
