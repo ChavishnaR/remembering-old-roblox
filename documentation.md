@@ -4,171 +4,179 @@ layout: page
 permalink: /documentation.html
 ---
 # Project Documentation 
+## Overview
 
-**Remembering Old Roblox: A Digital Archive of Discontinued Platform Features** is a digital archive that documents features, systems, and interfaces that have disappeared from Roblox over time. While Roblox is often understood as a game platform, this project approaches it as a digital infrastructure composed of economic systems, communication spaces, membership structures, interface designs, and identity practices.
+**Remembering Old Roblox: A Digital Archive of Discontinued Platform Features** is a digital archive that documents features, systems, and interfaces that have disappeared or transformed over time on the Roblox platform.
 
-The archive focuses on preserving traces of older Roblox systems that are no longer available in their original form. These include the Tickets (Tix) economy, guest accounts, Roblox forums, Builders Club memberships, and historical website interfaces. Through screenshots, archived webpages, community discussions, wiki documentation, and platform announcements, the archive examines how these systems shaped user experiences and platform culture.
+While Roblox is often understood as a game, this project approaches it as a layered digital infrastructure composed of interconnected systems: economy, identity, communication, access, interface design, and membership structures.
 
-Rather than recreating Old Roblox, the project preserves evidence of how the platform functioned during earlier periods and investigates what is lost when digital platforms evolve.
+The archive preserves traces of earlier platform versions through screenshots, archived webpages, wiki documentation, community discussions, and official announcements. Rather than recreating “Old Roblox,” it focuses on documenting how the platform functioned at different historical moments and what is lost when systems are removed or redesigned.
 
-# Conceptual Framing
+---
+# Significance of the Project 
 
+Digital platforms often present themselves as stable and continuous systems. In reality, they are constantly changing. Features disappear, interfaces are redesigned, communities migrate, and forms of participation become impossible. As these changes occur, important aspects of platform history can be lost or become difficult to access.
 
+By documenting discontinued Roblox systems, this archive demonstrates how platforms are not fixed technologies but evolving infrastructures shaped by governance decisions, economic systems, and interface design.
 
-One of the central questions guiding this archive is:
+The project also highlights the importance of preserving everyday digital experiences. Features such as Tix, guest accounts, forums, and Builders Club memberships may seem minor when viewed individually, but they shaped how users participated in the platform, formed communities, and understood their identities online.
 
-> What happens when digital platforms remove systems that once shaped user identity, communication, participation, and economic activity?
+More broadly, the archive demonstrates how digital humanities methods can be used to study platform history through archival practices, metadata creation, and the preservation of digital traces that might otherwise disappear.
 
-This archive argues that when platform features disappear, more than functionality is lost. Economic systems, social practices, forms of participation, and shared community experiences can also disappear. The removal of Tickets (Tix) changed how users engaged with Roblox's economy. The removal of guest accounts altered how new users could access the platform. The closure of the forums transformed community discussion and participation. Changes to Builders Club and website interfaces reshaped status, identity, and navigation.Through these examples, the archive suggests that when platforms remove systems, they also remove forms of participation, community memory, and cultural practices that were built around them. 
+--- 
 
-Many online platforms are treated as if they exist in a continuous present. However, platforms constantly change. Features disappear, interfaces are redesigned, communities migrate, and forms of participation become impossible. These changes often leave behind only fragmented evidence scattered across screenshots, archived websites, forum discussions, and community memories.
+## Relationship to the Landing Page
 
-Roblox is often discussed as a continuously evolving platform. However, many earlier features have disappeared entirely. These removals leave behind fragmented evidence scattered across screenshots, archived webpages, forum posts, community discussions, and documentation.
+The landing page presents Roblox as a collection of five interconnected systems:
 
-The archive exists to preserve those shifts, not as nostalgia alone, but as a way of understanding how platform design shapes culture, behavior, and memory. 
+- Tix (Economy)
+- Guest Accounts (Access & Identity)
+- Forums (Communication)
+- Interface History (Navigation & UI)
+- Builders Club (Membership & Status)
 
+Each section acts as an entry point into a broader system of platform infrastructure.
 
+This documentation page expands that structure by explaining how those systems were selected, interpreted, and organized, as well as the conceptual and technical decisions behind the archive.
 
+Together, the landing page and documentation form a two-layer structure:
 
-The project was particularly influenced by Benjamin Bratton's concept of layered infrastructure in The Stack. Bratton's idea of layered infrastructure influenced how I organized metadata because it encouraged me to think about Roblox as multiple interconnected systems rather than a single platform. Instead of classifying artifacts only by feature names, I used subject metadata to connect them to broader layers such as economy, communication, identity, governance, and interface design. For example, a Tix artifact is not only tagged as 'Tix' but also as 'Economy' and 'Currency,' while forum artifacts are connected to communication and governance. This allows users to see relationships between artifacts and understand Roblox as a collection of interacting systems.
-
-Throughout the project, Roblox became less of a game and more of a historical platform whose infrastructure could be studied and documented. 
+- The landing page = interface for exploration and navigation  
+- This documentation = explanation of design logic, methods, and conceptual framing  
 
 ---
 
-# Major Features of the Archive
+# Conceptual Framework
 
-The archive is organized into several thematic categories that represent different layers of platform history. 
+This archive is informed by platform studies and digital archival thinking, treating Roblox not as a single game but as a layered system of infrastructure.
 
-## Economy
+The five categories used in the landing page are not arbitrary topics, but interpretive systems:
 
-This section focuses on the Tickets (Tix) economy, currency exchange systems, commemorative items, and changes to Roblox's virtual economy.
+Tix → virtual economy and currency structures
+Guest Accounts → identity and access systems
+Forums → communication infrastructures
+Interface History → UI and navigation evolution
+Builders Club → monetization and status systems
 
-Subjects include:
+These systems represent different dimensions of how users experienced the platform at different historical moments.
 
-- Tix
-- Robux
-- Currency Exchange
-- Digital Economy
-- Platform Monetization
+--- 
+## Theoretical Influence
 
-## Access and Identity
+This project was influenced by Benjamin Bratton’s concept of layered infrastructure in *The Stack*. Bratton’s model helped shape how I understand platforms as multi-layered systems rather than single technologies. During the workshop I attended at DH@Guelph, "Dead Media, Living Data: Hacking the Archive" we discussed Bratton's idea that digital technologies are built from multiple interconnected layers rather than existing as single systems. That idea changed how I thought about Roblox.
 
-This section examines guest accounts, avatar systems, onboarding processes, and how users entered and participated within the platform.
+Instead of treating artifacts as isolated features, I structured metadata so that each item connects to broader infrastructural layers such as economy, communication, identity, governance, and interface.
 
-Subjects include:
+For example:
+- A Tix artifact is tagged not only as “Tix” but also as Economy and Currency
+- Forum artifacts connect to Communication and Governance
+- Guest account materials connect to Identity and Access
 
-- Guest Accounts
-- User Onboarding
-- Avatars
-- Identity Systems
-- Safe Chat
-- User Restrictions
-
-## Communication
-
-This section documents Roblox forums and discussion spaces that once served as important community hubs. 
-
-Subjects include:
-
-- Roblox Forums
-- Suggestions and Ideas
-- News and Discussion
-- Help Forums
-- Community Participation
-- Platform Governance
-
-## Interface
-
-This section focuses on historical website interfaces, login systems, homepage designs, and navigation structures. 
-
-Subjects include:
-
-- Homepage Design
-- Login Systems
-- Sign-Up Pages
-- Navigation
-- User Experience
-- Interface History
-
-## Membership Systems
-
-This section documents Builders Club, Turbo Builders Club, and Outrageous Builders Club memberships as systems of status, monetization, and platform participation.
-
-Subjects include:
-
-- Membership Systems
-- Virtual Economy
-- Digital Status
-- Monetization
-- Membership Rewards
+This structure allows users to move between layers and understand Roblox as an interconnected system rather than a linear history.
 
 ---
 
-# Metadata Choices
-Metadata forms the organizational structure of the archive and determines how artifacts can be discovered, grouped, and interpreted.
+## Major Features of the Archive
+The archive is organized around five systems that represent different parts of Roblox's platform history.
 
-Metadata was created using CollectionBuilder's metadata framework and adapted for the needs of this project. 
-It was one of the most important components of the project because it determines how artifacts can be organized, searched, and interpreted.
+### Tix
+This section documents Roblox’s discontinued and evolving virtual economy systems, including Tickets (Tix), Robux exchange structures, and monetization changes.
+
+Subjects include:
+- Tix  
+- Economy
+- Currency
+- Interface 
+- Early Roblox 
+
+---
+
+### Guest Accounts 
+This section focuses on how users entered and existed within the platform, including guest accounts and avatar systems.
+
+Subjects include:
+- Guest Accounts  
+- User onboarding  
+- Identity
+- Safe chat  
+- User restrictions  
+
+---
+
+### Forums 
+This section documents Roblox forums and early community discussion spaces that shaped participation and feedback.
+
+Subjects include:
+- Forums  
+- Communication 
+- Community Discussion
+- Governance  
+
+---
+
+### Interface 
+This section focuses on how Roblox’s website and navigation systems changed over time.
+
+Subjects include:
+- Interface history  
+- Homepage
+- Navigation 
+- User experience  
+
+---
+
+### Builders Club
+This section documents Builders Club and its tiers as systems of monetization, identity, and status.
+
+Subjects include:
+- Builders Club 
+- Digital status  
+- Monetization  
+- Membership Systems 
+
+---
+
+## Metadata Choices
+
+Metadata forms the organizational structure of the archive and allows artifacts to be searched, grouped, and interpreted.
+
+The archive uses CollectionBuilder's CSV metadata framework.
 
 Each artifact includes:
-- Title
-- Date
-- Description
-- Subject
-- Source
-- Format
-- Rights Information
-  
-The most significant metadata field in the project is the Subject field. Rather than functioning only as descriptive keywords, subjects are used to connect individual artifacts to broader platform systems and themes.
+- Title  
+- Date  
+- Description  
+- Subject  
+- Source  
+- Format  
+- Rights information  
 
-For example, artifacts about Tix are not only tagged with "Tix" but also with terms such as:
+The most important field is **Subject**, which does not only describe artifacts but connects them to broader platform systems. Each artifact uses one primary subject alongside additional related terms.
 
--Economy
--Currency
--Digital Culture
--Platform Governance
+For example:
+- Tix artifacts connect to Economy and Currency.
+- Guest Account artifacts connect to Identity and Access.
+- Forum artifacts connect to Communication and Governance.
 
-Similarly, guest account artifacts are connected to concepts such as:
-
--Identity
--User Onboarding
--Access Systems
--Communication Restrictions
-
-Forum artifacts are connected to:
-
--Communication
--Community Discussion
--Governance
--User Feedback
--Participatory Culture
-
-Metadata does not simply describe objects; it also shapes how users discover relationships between them. By assigning subjects that reflect larger platform structures, the archive encourages users to think about Roblox as a collection of interconnected systems rather than isolated features.
+This approach allows the archive to function as a relational system rather than a flat collection.
 
 ---
 
 # Data and Sources
 
-The archive is built from publicly accessible historical materials gathered from multiple sources.
+The archive is built from 45 artifacts gathered from publicly available historical materials:
+- Roblox Wiki documentation   
+- Archived webpages  
+- Historical Screenshots 
+- Community forums   
+- Reddit posts  
+- Blog posts  
+- Roblox announcements  
+- User-created documentation  
 
-These include:
+The archive is not comprehensive. It is a curated collection focused on significant transitions in platform infrastructure and user experience.
 
-- Roblox Wiki pages
-- Archived Roblox webpages
-- Screenshots of historical interfaces
-- Community discussions
-- Reddit posts
-- Historical blog posts
-- Roblox announcements
-- User-created documentation
-
-The collection focuses primarily on materials from Roblox's earlier years through major platform transitions.
-
-The archive does not claim to be comprehensive. Instead, it functions as a curated collection of artifacts that illustrate significant changes in platform infrastructure and culture.
-
-One challenge of working with digital history is that many original materials no longer exist. As a result, screenshots and archived records often become the primary evidence available.
-
+Many original materials no longer exist, so screenshots and archived traces become essential forms of evidence.
 
 ---
 
@@ -179,111 +187,84 @@ The project was developed using:
 - CollectionBuilder-GH
 - GitHub Pages
 - GitHub
-- CSV Metadata Files
-- Screenshots and Archived Web Materials
-
----
-# Process and Workflow
-
-The project was developed through a multi-stage workflow that combined archival collection, metadata creation, and web publishing.
-
-The first stage involved identifying discontinued Roblox systems that would form the scope of the archive. After reviewing Roblox history and available archival materials, five primary categories were selected:
-
--Economy (Tix)
--Communication (Forums)
--Access (Guest Accounts)
--Interface Design
--Membership Systems (Builders Club)
-
-The second stage involved locating historical materials. Sources included archived webpages, Roblox Wiki entries, historical screenshots, Reddit discussions, Roblox blog announcements, and community-created documentation.
-
-The third stage focused on creating metadata records. Each artifact was entered into a CSV spreadsheet where descriptive metadata fields were assigned. Particular attention was given to subject terms because they would determine how artifacts were grouped and discovered within the collection.
-
-The fourth stage involved uploading object files and metadata into CollectionBuilder through GitHub. Metadata records were connected to image files stored within the project repository.
-
-The final stage involved testing navigation, reviewing metadata consistency, (continue when done). 
-
+- CSV Metadata spreadsheets 
+- Archived web materials
+- Historical screenshots
 
 ---
 # Process and Changes in Approach 
 
-The project changed significantly throughout development.
+The project developed through a multi-stage workflow that combined archival research, metadata design, and web-based implementation.
 
-Initially, I considered building the archive using Notion or Omeka. However, after experimenting with different platforms, I chose CollectionBuilder because it provided stronger support for metadata-driven collections and digital archival practices.
+The first stage involved defining the scope of the archive by identifying discontinued Roblox systems that would form the structure of the project. Although Roblox has many historical changes, I narrowed the focus to five key systems, (Economy (Tix), Guest Accounts, Forums, Interface History, and Builders Club) because they best represented shifts in platform infrastructure, identity, and participation.
 
-Another major change involved how I understood Roblox itself.
+The second stage involved locating and collecting historical materials. This included archived Roblox webpages, wiki documentation, screenshots of early interfaces, Reddit discussions, official blog posts, and community-generated archives. This stage was ongoing rather than linear, as new sources often changed how I understood or categorized existing materials.
 
-Early in the project I approached Roblox primarily as a game. Through course readings, workshop activities, and research, I began viewing it instead as a platform composed of multiple infrastructures. This shift influenced the final organization of the archive.
+The third stage focused on metadata creation using CollectionBuilder’s CSV-based system. Each artifact was entered manually and assigned structured fields such as title, date, description, subject, source, format, and rights. During this stage, I repeatedly revised subject categories as relationships between artifacts became clearer. What initially appeared as separate features often overlapped across broader systems such as economy, identity, and governance, which led to refinements in how metadata was structured. 
 
-Rather than organizing artifacts chronologically, I organized them around systems such as economy, communication, identity, access, and interface design.
+The fourth stage involved implementing the archive through GitHub Pages and connecting metadata records to uploaded media files. This stage also included testing navigation, adjusting layout decisions, and refining how users move between categories. 
+
+The project did not follow a strictly linear workflow. Instead, research, design, metadata creation, and interface development influenced each other continuously. Decisions made in one part of the project often required adjustments elsewhere, especially when refining how systems were grouped and how users would experience the archive.
+
+A significant change in approach occurred in how I understood Roblox itself. At the beginning of the project, I primarily understood Roblox as a game platform. However, through research and engagement with platform studies concepts, I began to see it as a layered infrastructure composed of interconnected systems. This shift directly influenced how the archive was structured, moving away from chronological organization toward system-based categorization.
+
+Another major shift involved moving from a more static idea of “collection building” to a more interpretive understanding of metadata. Instead of treating metadata as purely descriptive, I began to see it as a curatorial tool that shapes how relationships between artifacts are constructed and interpreted by users. 
+
 ---
 
 # How to Use the Archive
 
-Visitors can browse the collection through the archive interface.
+Visitors can explore the archive through the landing page, which introduces five interconnected systems of Roblox history: Economy (Tix), Guest Accounts, Forums, Interface History, and Builders Club.
 
-A suggested ten-minute walkthrough is:
+Each section of the archive functions as an entry point into a broader infrastructural layer of the platform. Users are not required to follow a linear path and can move between categories freely depending on their interests.
 
-1. Begin with the Tix economy section.
-2. Explore guest account artifacts.
-3. Examine Roblox forum materials.
-4. Compare interface screenshots from different periods.
-5. Review Builders Club membership artifacts.
+However, a suggested short walkthrough (approximately 10 minutes) is: 
 
-Following this path introduces visitors to each major layer of platform history and demonstrates how Roblox evolved over time.
+1. Begin with the Tix Economy section to understand Roblox’s former virtual currency system and how value circulated within the platform.
+2. Explore Guest Accounts to examine how identity and access shaped early user participation.
+3. Move to Forums to see how communication and community discussion functioned before their closure.
+4. Compare different versions of the Interface History to understand how navigation and user experience evolved over time.
+5. Finish with Builders Club to examine systems of membership, status, and monetization.
 
-Each artifact includes metadata, descriptions, source information, and contextual explanations to help situate it within broader platform history.
+Following this sequence helps reveal how each system connects to broader platform infrastructures, moving from economy and access to communication, interface design, and membership structures.
+
+Each artifact includes metadata such as title, date, description, subject tags, source information, and rights information. These fields allow users to understand both the historical context of each item and how it connects to other parts of the archive.
+
+Rather than functioning as a fixed narrative, the archive is designed to support exploration through connected systems. Users can follow their own paths through the collection depending on which aspects of Roblox history they want to investigate.
 
 ---
 
 # Ethical Considerations
 
-This project relies on publicly available historical materials.
+This project is built using publicly available historical materials, including archived webpages, screenshots, Roblox Wiki documentation, official Roblox announcements, Reddit discussions, and community-created resources.
 
-Many artifacts include screenshots of community discussions, forum posts, and user-generated content. These materials were not originally created for academic analysis, which raises questions about context and representation.
+Many of these materials were originally created for purposes other than academic research. Although they are publicly accessible, they often include usernames, forum posts, or other forms of user-generated content. To address this, the archive focuses on documenting Roblox's systems and platform history rather than individual users or personal identities. User-generated materials are included only when they provide important historical context for understanding discontinued platform features.
 
-To address this issue, the project focuses on platform systems rather than individual users. Usernames and personal identities are not the primary objects of study.
+Another ethical consideration involves the preservation of digital history itself. Much of Roblox's earlier history has survived only through community efforts, archived webpages, screenshots, and unofficial documentation. As a result, the archive depends on sources that may be incomplete or reflect the perspectives of those who chose to preserve them. This means that the archive cannot present a complete or perfectly objective history of the platform. 
 
-The archive acknowledges that historical records are incomplete and reflect the limitations of what has been preserved online.
+The project also recognizes that creating a digital archive involves interpretation. Decisions about which artifacts to include, how they are described, how metadata is assigned, and how materials are organized all influence how visitors understand Roblox's history. Rather than presenting a definitive record, the archive represents one curated interpretation based on the historical evidence that remains available.
 
-Like all digital archives, the collection is shaped by archival gaps, platform bias, and the availability of surviving materials.
+Where possible, original sources are identified and credited so visitors can understand the provenance of each artifact and consult the original material when available.
 
 ---
 
 # Limitations and Future Development
 
-The archive has several limitations.
+This archive represents only one interpretation of Roblox's history and is limited by both the availability of historical materials and the scope of the project.
 
-Many original Roblox materials have been deleted or are no longer accessible. As a result, the project often relies on screenshots, archived webpages, and secondary documentation.
+One of the biggest limitations was the availability of sources. Many original Roblox webpages, interfaces, and systems have been removed or are no longer publicly accessible. As a result, the archive often relies on archived webpages, screenshots, community documentation, and secondary sources rather than original platform materials. This reflects one of the challenges of documenting digital history, where platforms continuously change and older versions are not always preserved.
 
-The archive also focuses on only a small portion of Roblox history. Many other systems could be explored in future versions, including moderation systems, developer culture, user-generated content, advertising systems, and marketplace history.
+As a curated project, different design choices could have expanded or altered the scope of the collection. Every decision about which artifacts to include, how they are described, and how they are categorized reflects my own interpretation of Roblox's history. While metadata helps connect artifacts across the collection, different organizational choices could produce different ways of understanding the platform.
 
-Future development could expand both the number of artifacts and the range of platform layers represented within the collection.
-
-Despite these limitations, the archive demonstrates how digital platforms can be studied historically and preserved through digital humanities methods.
-
----
-# Significance of the Project 
-This project contributes to discussions about digital preservation, platform history, and the challenges of archiving online cultures.
-
-Digital platforms often present themselves as stable and continuous systems. In reality, they are constantly changing. Features disappear, interfaces are redesigned, communities migrate, and forms of participation become impossible. As these changes occur, important aspects of platform history can be lost or become difficult to access.
-
-By documenting discontinued Roblox systems, this archive demonstrates how platforms are not fixed technologies but evolving infrastructures shaped by governance decisions, economic systems, and interface design.
-
-The project also highlights the importance of preserving everyday digital experiences. Features such as Tix, guest accounts, forums, and Builders Club memberships may seem minor when viewed individually, but they shaped how users participated in the platform, formed communities, and understood their identities online.
-
-More broadly, the archive demonstrates how digital humanities methods can be used to study platform history through archival practices, metadata creation, and the preservation of digital traces that might otherwise disappear.
-
-
+If I were to continue developing this project, I would expand both the collection and its functionality. I would include additional artifacts covering later platform changes, strengthen relationships between metadata records, and create more connections between related systems throughout the archive. I would also like to incorporate additional archival materials, such as preserved videos, archived developer blogs, or interactive timelines, where appropriate.
 
 ---
 
 # Reflection
+One of the biggest methodological lessons from this project was realizing that building a digital archive is much more than collecting historical material. Throughout the project, I found myself constantly moving between research, metadata creation, website design, and testing. Each stage influenced the others. For example, while creating metadata I often realized that categories I had originally planned no longer reflected how the artifacts related to one another, which led me to rethink both the organization of the archive and the navigation of the website. 
 
-One of the most important lessons from this project was recognizing how temporary digital platforms actually are.
+Another important lesson was understanding how much interpretation is involved in archival work. Choosing which artifacts to include, deciding how to describe them, and assigning subject metadata were not neutral decisions. Every choice affected how visitors would discover the collection and understand Roblox's history. This made me think more critically about the role of the archivist as someone who actively shapes how history is presented rather than simply preserving it.  
 
-Before beginning the archive, I viewed Roblox primarily through nostalgia and personal memory. Through research and collection work, I began to see it as a complex infrastructure composed of governance systems, economic structures, communication tools, and identity practices.
+The iterative nature of the project also became clear as the archive developed. Early versions of the site were organized more like a collection of independent pages. Through feedback and continued testing, I redesigned the homepage into a landing page that introduces the five major systems before directing users into the collection. I also simplified the browse page by reducing the number of subject labels and introducing a dropdown menu so navigation would be more consistent and easier to understand. These changes reinforced that user experience and archival organization are closely connected; changes to metadata often required changes to the interface, and vice versa.
 
-The project also helped me understand how digital archives are not neutral collections. Every decision about metadata, organization, inclusion, and classification influences how users interpret historical materials.
-
-Most importantly, the project demonstrated how digital platforms leave behind traces of earlier forms of participation even after the systems themselves disappear.
+Looking back, I also realized how differently I think about Roblox now compared to when I started the project. I initially approached it as a nostalgic game from my childhood, but through researching discontinued features and reading about platform studies, I began to see it as an evolving digital infrastructure composed of economic, social, technical, and governance systems. That shift ultimately shaped every aspect of the archive, from the categories I selected to the metadata structure and the overall design of the website.  This project has shown me that digital archives are never truly complete. Like the platforms they document, they remain works in progress that can continue to grow as new materials and perspectives emerge.
