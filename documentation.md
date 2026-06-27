@@ -142,27 +142,28 @@ Subjects include:
 
 ## Metadata Choices
 
-Metadata forms the organizational structure of the archive and allows artifacts to be searched, grouped, and interpreted.
+Metadata forms the organizational structure of the archive and allows artifacts to be searched, grouped, and interpreted.Rather than functioning only as descriptive labels, the metadata provides historical context and reveals relationships between different parts of Roblox's platform history.
 
-The archive uses CollectionBuilder's CSV metadata framework.
+The archive uses CollectionBuilder's CSV metadata framework. Each artifact includes the following fields:
 
-Each artifact includes:
-- Title  
-- Date  
-- Description  
-- Subject  
-- Source  
-- Format  
-- Rights information  
+Title – identifies the artifact.
+Date – records when the documented feature, webpage, or system existed or was published.
+Description – summarizes the artifact's historical significance and explains what it documents.
+Subject – categorizes the artifact within broader platform systems.
+Source – identifies the original webpage or archive from which the artifact was obtained.
+Format – identifies the media type (such as webpage, screenshot, forum post, or image).
+Rights – records the rights statement associated with the artifact.
 
-The most important field is **Subject**, which does not only describe artifacts but connects them to broader platform systems. Each artifact uses one primary subject alongside additional related terms.
+The Subject field became the most significant metadata element in this project. Rather than simply assigning keywords, subjects were designed to connect individual artifacts to larger infrastructural systems within Roblox. Each artifact is assigned one primary subject representing its main category, alongside several broader subjects that connect it to related themes across the archive.
 
 For example:
 - Tix artifacts connect to Economy and Currency.
 - Guest Account artifacts connect to Identity and Access.
 - Forum artifacts connect to Communication and Governance.
 
-This approach allows the archive to function as a relational system rather than a flat collection.
+This approach allows users to discover artifacts through multiple conceptual pathways rather than a single category, emphasizing the relationships between systems that shaped the Roblox platform.
+
+These metadata choices were informed by the needs of a digital archive rather than a chronological collection. Because the project documents platform history, the metadata needed to support both discovery and interpretation. Instead of only describing what an artifact is, the metadata explains how it fits within the broader history of Roblox's evolving infrastructure.
 
 ---
 
