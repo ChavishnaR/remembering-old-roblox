@@ -6,7 +6,9 @@ permalink: /forums/
 
 ## Roblox Forums
 
-This section documents Roblox’s forum system, which functioned as a central hub for community discussion, feedback, support, and platform communication before being discontinued in 2017.
+For many years, the Roblox Forums served as the platform's primary space for community discussion, feedback, technical support, and interaction between players and developers. They functioned as an important communication infrastructure where users shared ideas, reported issues, debated platform changes, and helped shape Roblox's growing community.
+
+When the forums were discontinued in 2017, a significant part of Roblox's public history disappeared with them. Much of what remains today survives only through archived webpages, screenshots, community documentation, and preservation projects.
 
 ---
 {% assign items = site.data.old-roblox | where_exp: "item", "item.subject contains 'Forums'" %}
