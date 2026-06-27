@@ -5,10 +5,9 @@ permalink: /interface/
 --- 
 ## Roblox Interface History
 
-This section documents the evolution of Roblox's website interface between 2005 and 2022. These artifacts show how the platform's homepage, login systems, navigation, and overall user experience changed over time as Roblox expanded from a small online building platform into a large-scale gaming ecosystem.
+The Roblox website has undergone continuous redesign since its launch, reflecting both technological development and changing priorities in navigation, accessibility, branding, and user experience.
 
-The collection illustrates how interface design influenced the ways users discovered games, created accounts, accessed platform features, and interacted with the Roblox community.
-
+This collection documents the evolution of Roblox's interface between 2005 and 2022 through archived webpages and historical screenshots. Together, these artifacts reveal how homepage layouts, navigation systems, account pages, and interface elements changed as Roblox expanded from a small online building platform into one of the world's largest gaming ecosystems.
 
 ---
 
