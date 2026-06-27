@@ -52,7 +52,7 @@ This archive is informed by platform studies and digital archival thinking, trea
 
 The five categories used in the landing page are not arbitrary topics, but interpretive systems:
 
-Tix= virtual economy and currency structures
+Tix = virtual economy and currency structures
 
 Guest Accounts = identity and access systems
 
