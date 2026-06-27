@@ -52,15 +52,15 @@ This archive is informed by platform studies and digital archival thinking, trea
 
 The five categories used in the landing page are not arbitrary topics, but interpretive systems:
 
-Tix → virtual economy and currency structures
+Tix= virtual economy and currency structures
 
-Guest Accounts → identity and access systems
+Guest Accounts = identity and access systems
 
-Forums → communication infrastructures
+Forums = communication infrastructures
 
-Interface History → UI and navigation evolution
+Interface History = UI and navigation evolution
 
-Builders Club → monetization and status systems
+Builders Club = monetization and status systems
 
 These systems represent different dimensions of how users experienced the platform at different historical moments.
 
