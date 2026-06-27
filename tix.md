@@ -6,7 +6,9 @@ permalink: /tix/
 
 ## The Roblox Ticket (Tix) Economy
 
-Tickets (Tix) were Roblox's former free virtual currency. Introduced in 2007 and removed in 2016, Tix allowed users to earn currency through participation and exchange it for Robux through the RoblEX system. The removal of Tix marked a significant shift in Roblox's economy and monetization structure.
+Tickets (Tix) were Roblox's original free virtual currency and one of the platform's earliest economic systems. Introduced in 2007 and discontinued in 2016, Tix allowed users to earn currency through daily activity and exchange it for Robux using the RoblEX exchange.
+
+Tix shaped how players participated in Roblox by making items, customization, and parts of the platform accessible without requiring real-world purchases. Its removal marked a major shift toward a fully premium economy and fundamentally changed how value circulated throughout the platform.
 
 ---
 
